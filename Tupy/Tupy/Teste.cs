@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tupy
 {
-    public class Class1
+    public class Teste
     {
     }
 }
