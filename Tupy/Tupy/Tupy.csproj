@@ -44,7 +44,6 @@
     <Compile Include="ExecutionStatus.cs" />
     <Compile Include="ExecutionStatusBase.cs" />
     <Compile Include="ExecutionStatusGeneric.cs" />
-    <Compile Include="Teste.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
