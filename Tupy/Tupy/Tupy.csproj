@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExecutionStatus.cs" />
+    <Compile Include="ExecutionStatusBase.cs" />
+    <Compile Include="ExecutionStatusGeneric.cs" />
     <Compile Include="Teste.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
