@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tupy", "src\Tupy\Tupy.csproj", "{2A023CC4-6B5C-45D6-8CDF-6CE8AEF3AF9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tupy", "Tupy\Tupy.csproj", "{2A023CC4-6B5C-45D6-8CDF-6CE8AEF3AF9D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{87ABF6D9-CB91-422D-9EDD-14B1FADBA79D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE268ED1-2477-45F4-8B77-22CDB6B341C8}"
 	ProjectSection(SolutionItems) = preProject
-		src\Tupy\Tupy.nuspec = src\Tupy\Tupy.nuspec
+		Tupy\Tupy.nuspec = Tupy\Tupy.nuspec
 	EndProjectSection
 EndProject
 Global
@@ -23,9 +23,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{2A023CC4-6B5C-45D6-8CDF-6CE8AEF3AF9D} = {87ABF6D9-CB91-422D-9EDD-14B1FADBA79D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3ADED837-C4DC-4D81-B3EE-B3C8402EA0FB}
