@@ -42,7 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExecutionResponse.cs" />
-    <Compile Include="ExecutionResponseBase.cs" />
     <Compile Include="ExecutionResponseGeneric.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
