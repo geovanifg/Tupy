@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\NuGet\nuget.exe" spec Tupy.csproj

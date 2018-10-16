@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tupy")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Tupy Library")]
+[assembly: AssemblyDescription("Routines to help developers")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("geovanifg")]
 [assembly: AssemblyProduct("Tupy")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
