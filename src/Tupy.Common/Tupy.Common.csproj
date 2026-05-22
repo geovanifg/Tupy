@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<!--<TargetFrameworks>net9.0;net461;net472;net48;</TargetFrameworks>-->
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<!--<Configurations>Development;Staging;Production</Configurations>-->
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<RepositoryUrl></RepositoryUrl>
+		<PackageTags>Tupy Common</PackageTags>
+
+		<Title>Rotinas comuns</Title>
+		<Product>Tupy.Common</Product>
+		<Description>Biblioteca de classes comuns.</Description>
+		<AssemblyTitle>Tupy.Common</AssemblyTitle>
+		<Company>GeovaniFG</Company>
+		<Authors>GeovaniFG</Authors>
+		<Copyright>GeovaniFG© 2026</Copyright>
+		<AssemblyVersion>1.0.0.2</AssemblyVersion>
+		<NeutralLanguage>pt-BR</NeutralLanguage>
+		<Version>$(Version)</Version>
+	</PropertyGroup>
+
+	<!--<ItemGroup Condition=" '$(TargetFramework)' == 'net9.0' ">
+	</ItemGroup>
+
+	<ItemGroup Condition=" '$(TargetFramework)' == 'net461' OR '$(TargetFramework)' == 'net472' OR '$(TargetFramework)' == 'net48' OR '$(TargetFramework)' == 'netstandard2.0' ">
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+	</ItemGroup>-->
+
+</Project>
