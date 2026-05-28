@@ -8,9 +8,9 @@
 		<!--<Configurations>Development;Staging;Production</Configurations>-->
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-		<RepositoryUrl></RepositoryUrl>
+		<RepositoryUrl>https://github.com/geovanifg/Tupy</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
 		<PackageTags>Tupy Common</PackageTags>
-
 		<Title>Rotinas comuns</Title>
 		<Product>Tupy.Common</Product>
 		<Description>Biblioteca de classes comuns.</Description>
@@ -18,7 +18,7 @@
 		<Company>GeovaniFG</Company>
 		<Authors>GeovaniFG</Authors>
 		<Copyright>GeovaniFG© 2026</Copyright>
-		<AssemblyVersion>1.0.0.2</AssemblyVersion>
+		<AssemblyVersion>1.0.1</AssemblyVersion>
 		<NeutralLanguage>pt-BR</NeutralLanguage>
 		<Version>$(Version)</Version>
 	</PropertyGroup>
